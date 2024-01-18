@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6899f0ce.css",
+    "main.js": "/portfolio/static/js/main.181807ee.js",
+    "static/js/988.59703569.chunk.js": "/portfolio/static/js/988.59703569.chunk.js",
+    "static/media/profile-pic.jpg.jpg": "/portfolio/static/media/profile-pic.jpg.079ce97fb72d2957df32.jpg",
+    "static/media/saroj 20btrcs145 resume (2).pdf": "/portfolio/static/media/saroj 20btrcs145 resume (2).099a61fa852dd469f7b4.pdf",
+    "static/media/Swaad ka safar.png": "/portfolio/static/media/Swaad ka safar.2543782dbcbffa72590d.png",
+    "static/media/contact me.png": "/portfolio/static/media/contact me.e55487e87056fce9680b.png",
+    "static/media/TimeZone Converter.png": "/portfolio/static/media/TimeZone Converter.a343b6812669a61d449c.png",
+    "static/media/Textcraft.png": "/portfolio/static/media/Textcraft.3be742c5d25eabcbf569.png",
+    "index.html": "/portfolio/index.html",
+    "main.6899f0ce.css.map": "/portfolio/static/css/main.6899f0ce.css.map",
+    "main.181807ee.js.map": "/portfolio/static/js/main.181807ee.js.map",
+    "988.59703569.chunk.js.map": "/portfolio/static/js/988.59703569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6899f0ce.css",
+    "static/js/main.181807ee.js"
+  ]
+}
